@@ -11,3 +11,7 @@
 2. Square bracket sintax
 3. Object.defineProperty
 4. Object.defineProperties
+
+*Constructores*
+1. Constructores Basicos
+2. Constructores con prototype.
